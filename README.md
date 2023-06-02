@@ -7,4 +7,5 @@ It creates a txt file titled the date the data was saved in the sd card.
 Thus, the data is filed daily.
 
 wiring diagram:
+
 ![bağlantı şeması bitirme](https://github.com/humeyraayl/mlx90614-data-logging/assets/111793457/39e494bb-a325-4d10-9d98-068bb43debd7)
